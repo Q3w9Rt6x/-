@@ -1,0 +1,54 @@
+/* 数字盤 */
+.numbers input{
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    margin: 5px 0px 5px 0px;
+    background-color: aliceblue;
+}
+/* 四則計算 */
+.op{
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    margin: 5px 0px 5px 0px;
+    background-color: #ffe87c;
+}
+/* =部分 */
+.eq{
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    margin: 0px 0px 0px 0px;
+    background-color: #DE6641;
+}
+/* 数字が表示される部分 */
+.textarea{
+    display: inline-block;
+    width: 288px;
+    height: 70px;
+    margin: 5px 0px 10px 0px;
+}
+.ex{
+    text-align: left;
+    margin-right: 30px;
+	margin: 5 5 5 0;
+	margin: 0 auto 0 auto;
+	max-width: 500px;
+	margin-top: 10px;
+    margin-left: 200px;
+
+
+}
+.wrap{
+    margin-left: 400px;
+    margin-top: 30px;
+}
+.box{
+    margin-left: 30px;
+}
+.title{
+	text-align: center;
+	font-size: 70px;
+	margin-top: 40px;
+}
